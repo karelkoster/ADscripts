@@ -32,6 +32,60 @@ User3,User3,User3,,User3,Nunspeet
 User4,User4,User4,,User4,Putten
 moodleBind,moodlebind,moodleBind,,moodleBind,Users
 student1,student1,student1,,student1,elo
+
+
+
+
+a.douma,a.douma,Anneke,Douma,Anneke Douma,Studenten
+a.heijn,a.heijn,Albert,Heijn,Albert Heijn,Studenten
+a.meeuwis,a.meeuwis,Albert,Meeuwis,Albert Meeuwis,Domain Admins
+a.nagy,a.nagy,Anne,Nagy,Anne Nagy,Staff
+a.poiesz,a.poiesz,Antoine,Poiesz,Antoine Poiesz,Studenten
+a.zuidema,a.zuidema,Anna,Zuidema,Anna Zuidema,Studenten
+b.baasje,b.baasje,Bart,Baasje,Bart Baasje,Staff
+b.kuiper,b.kuiper,Bart,Kuiper,Bart Kuiper,Staff
+bestuur.realtime,bestuur.realtime,Bestuur,Realtime,Bestuur Realtime,Studentenverenigingen
+d.jongema,d.jongema,Dirk,Jongema,Dirk Jongema,Studenten
+d.jongsma,d.jongsma,Dick,Jongsma,Dick Jongsma,Studenten
+e.doetjes,e.doetjes,Egbert,Doetjes,Egbert Doetjes,Studenten
+e.stoffers,e.stoffers,Emiel,Stoffers,Emiel Stoffers,Studenten
+f.alsvanouds,f.alsvanouds,Frederik,Alsvanouds,Frederik Alsvanouds,Staff
+f.frederiksen,f.frederiksen,Femme,Frederiksen,Femme Frederiksen,Staff
+f.holtrop,f.holtrop,Fiona,Holtrop,Fiona Holtrop,Studenten
+g.boelens,g.boelens,Gerrit,Boelens,Gerrit Boelens,Studenten
+g.gaatjes,g.gaatjes,Gerrit,Gaatjes,Gerrit Gaatjes,Domain Admins
+h.rameckers,h.rameckers,Hendrik,Rameckers,Hendrik Rameckers,Staff
+j.banana,j.banana,Johanna,Banana,Johanna Banana,Studenten
+j.daelmans,j.daelmans,Joost,Daelmans,Joost Daelmans,Staff
+j.degroote,j.degroote,Jantina,De Groote,Jantina De Groote,Studenten
+j.devries,j.devries,Jannes,de Vries,Jannes de Vries,Studenten
+j.eerkens,j.eerkens,Jan,Eerkens,Jan Eerkens,Staff
+j.jagersma,j.jagersma,Johannes,Jagersma,Johannes Jagersma,Studenten
+j.mandarien,j.mandarien,Jantien,Mandarien,Jantien Mandarien,Studenten
+j.rijs,j.rijs,Joris,Rijs,Joris Rijs,Studenten
+j.vanophoven,j.vanophoven,Jorrit,Vanophoven,Jorrit Vanophoven,Staff
+jane.doe,jane.doe,Jane,Doe,Jane Doe,Staff
+john.doe,john.doe,John,Doe,John Doe,Staff
+l.dejong,l.dejong,Laura,de Jong,Laura de Jong,Studenten
+l.dicaptio,l.dicaptio,Leonardo,di Captio,Leonardo di Captio,Studenten
+l.doetjes,l.doetjes,Leon,Doetjes,Leon Doetjes,Studenten
+l.lunshof,l.lunshof,Leonard,Lunshof,Leonard Lunshof,Studenten
+m.peter,m.peter,Martin,Peter,Martin Peter,Staff
+m.vanachteren,m.vanachteren,Marrit,Vanachteren,Marrit Vanachteren,Staff
+m.vanderwal,m.vanderwal,Matthijs,van der Wal,Matthijs van der Wal,Studenten
+n.boelens,n.boelens,Niek,Boelens,Niek Boelens,Staff
+n.devries,n.devries,Niels,De Vries,Niels De Vries,Staff
+n.dierks,n.dierks,Nick,Dierks,Nick Dierks,Studenten
+p.beens,p.beens,Pieter,Beens,Pieter Beens,Studenten
+p.hekmijniet,p.hekmijniet,Piet,Hekmijniet,Piet Hekmijniet,Domain Admins
+r.dejager,r.dejager,Rico,de Jager,Rico de Jager,Studenten
+r.demeeren,r.demeeren,Reinder,De Meeren,Reinder De Meeren,Studenten
+r.snaaijer,r.snaaijer,Rick,Snaaijer,Rick Snaaijer,Staff
+s.delange,s.delange,Simon,de Lange,Simon de Lange,Studenten
+s.huizinga,s.huizinga,Sjoerd,Huizinga,Sjoerd Huizinga,Studenten
+s.smets,s.smets,Sander,Smets,Sander Smets,Staff
+t.dehond,t.dehond,Tommie,De Hond,Tommie De Hond,Domain Admins
+t.rietveld,t.rietveld,Tinus,Rietveld,Tinus Rietveld,Staff
 student2,student2,student2,,student2,elo
 mark,mark,mark,,mark,Joodse Theologie
 User7,User7,User7,,User7,Medewerkers
