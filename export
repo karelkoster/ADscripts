@@ -1,51 +1,50 @@
-#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
-"name","samaccountname","givenname","surname","Displayname","ParentOU"
-"Guest","Guest",,,,"Users"
-"joep","Administrator","joep","vries","Administrator","Users"
-"krbtgt","krbtgt",,,,"Users"
-"Exchange Online-ApplicationAccount","$631000-LFG785F0GUNU",,,,"Users"
-"SystemMailbox{1f05a927-3aa7-4269-a964-39b368374b0b}","SM_ad419217c600442aa",,"MSExchApproval 1f05a927-3be2-4fb9-aa03-b59fe3b56f4c","Microsoft Exchange Approval Assistant","Users"
-"SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}","SM_175ad9efbd364d1ea",,"SystemMailbox bb558c35-97f1-4cb9-8ff7-d53741dc928c","Microsoft Exchange","Users"
-"SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9}","SM_9cf9c1b28cd04128b",,"MsExchDiscovery e0dc1c29-89c3-4034-b678-e6c29d823ed9","Microsoft Exchange","Users"
-"DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852}","SM_5308c79a5824433a8",,"MsExchDiscoveryMailbox D919BA05-46A6-415f-80AD-7E09334BB852","Discovery Search Mailbox","Users"
-"Migration.8f3e7716-2011-43e4-96b1-aba62d229136","SM_fd3ec7aed5bc43ab9",,"Migration.8f3e7716-2011-43e4-96b1-aba62d229136","Microsoft Exchange Migration","Users"
-"FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042","SM_e3473f4bfb2e411b9",,"FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042","Microsoft Exchange Federation Mailbox","Users"
-"SystemMailbox{D0E409A0-AF9B-4720-92FE-AAC869B0D201}","SM_10f999cd47ea416f8",,"SystemMailbox{D0E409A0-AF9B-4720-92FE-AAC869B0D201}","E4E Encryption Store - Active","Users"
-"SystemMailbox{2CE34405-31BE-455D-89D7-A7C7DA7A0DAA}","SM_d53e9cb6ea4d489b9",,"SystemMailbox{2CE34405-31BE-455D-89D7-A7C7DA7A0DAA}","Microsoft Exchange","Users"
-"SystemMailbox{8cc370d3-822a-4ab8-a926-bb94bd0641a9}","SM_6f501e70a8064a6a8",,"SystemMailbox 8cc370d3-822a-4ab8-a926-bb94bd0641a9","SystemMailbox{8cc370d3-822a-4ab8-a926-bb94bd0641a9}","Users"
-"HealthMailbox1e73ceee11d14e8b969482626e9f5417","HealthMailbox1e73cee",,,"HealthMailbox-Exchange-Mailbox-Database-1711407713","Monitoring Mailboxes"
-"HealthMailboxa845b976a03a46ea981e48d37f7a16ef","HealthMailboxa845b97",,,"HealthMailbox-Exchange-001","Monitoring Mailboxes"
-"HealthMailboxeeba0157b4c643d58847ccc558614ca9","HealthMailboxeeba015",,,"HealthMailbox-Exchange-002","Monitoring Mailboxes"
-"HealthMailboxc8c81a839ca1417fbf7ee9e711a13647","HealthMailboxc8c81a8",,,"HealthMailbox-Exchange-003","Monitoring Mailboxes"
-"HealthMailbox36d9e677674a4c378e77318ec888c067","HealthMailbox36d9e67",,,"HealthMailbox-Exchange-004","Monitoring Mailboxes"
-"HealthMailboxd23dd04e6aae4f4db9684bbf2ed48005","HealthMailboxd23dd04",,,"HealthMailbox-Exchange-005","Monitoring Mailboxes"
-"HealthMailbox9c7e1ba122354a848f62c6cd816fa82f","HealthMailbox9c7e1ba",,,"HealthMailbox-Exchange-006","Monitoring Mailboxes"
-"HealthMailboxeaa9785acda54c97abad5dd5a82d788d","HealthMailboxeaa9785",,,"HealthMailbox-Exchange-007","Monitoring Mailboxes"
-"HealthMailbox4f8ec8134bf343a8b6726610171de34d","HealthMailbox4f8ec81",,,"HealthMailbox-Exchange-008","Monitoring Mailboxes"
-"HealthMailboxe57e2d3c15fb42efb735f320402664b0","HealthMailboxe57e2d3",,,"HealthMailbox-Exchange-009","Monitoring Mailboxes"
-"HealthMailboxdd2759fd3e5048a096dcd740b078384c","HealthMailboxdd2759f",,,"HealthMailbox-Exchange-010","Monitoring Mailboxes"
-"Bo ter Ham","boterham","Bo","ter Ham","Bo ter Ham","Joodse Theologie"
-"Max Verstappen","Maxverstappen","Max","Verstappen","Max Verstappen","Tropische Bosbouw"
-"sshd","sshd",,,"sshd","Users"
-"User1","User1","User1",,"User1","Christelijke Theologie"
-"User2","User2","User2",,"User2","Nunspeet"
-"User3","User3","User3",,"User3","Nunspeet"
-"User4","User4","User4",,"User4","Putten"
-"moodleBind","moodlebind","moodleBind",,"moodleBind","Users"
-"student1","student1","student1",,"student1","elo"
-"student2","student2","student2",,"student2","elo"
-"mark","mark","mark",,"mark","Joodse Theologie"
-"User7","User7","User7",,"User7","Medewerkers"
-"frits","frits","frits",,"frits","Joodse Theologie"
-"substudent1","substudent1","substudent1",,"substudent1","elo_sub"
-"User10","User10","User10",,"User10","Putten"
-"tester2","tester2","tester2",,"tester2","Islamitische Theologie"
-"User11","User11","User11",,"User11","Medewerkers"
-"User12","User12","User12",,"User12","Medewerkers"
-"User13","User13","User13",,"User13","Medewerkers"
-"willsmith","willsmith","will","smith","willsmith","Studenten"
-"tantetea","tantetea","tante","tea","tantetea","Medewerkers"
-"Berend de Gooi","berendg","Berend","de Gooi","Berend de Gooi","Studenten"
-"demotest","demotest","demotest","demotest","demotest","Medewerkers"
-"newuser","newuser","newuser","newuser","newuser","Medewerkers"
-"newuser1","newuser1","newuser1","newuser1","newuser1","Medewerkers"
+name,samaccountname,givenname,surname,Displayname,ParentOU
+Guest,Guest,,,,Users
+joep,Administrator,joep,vries,Administrator,Users
+krbtgt,krbtgt,,,,Users
+Exchange Online-ApplicationAccount,$631000-LFG785F0GUNU,,,,Users
+SystemMailbox{1f05a927-3aa7-4269-a964-39b368374b0b},SM_ad419217c600442aa,,MSExchApproval 1f05a927-3be2-4fb9-aa03-b59fe3b56f4c,Microsoft Exchange Approval Assistant,Users
+SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c},SM_175ad9efbd364d1ea,,SystemMailbox bb558c35-97f1-4cb9-8ff7-d53741dc928c,Microsoft Exchange,Users
+SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9},SM_9cf9c1b28cd04128b,,MsExchDiscovery e0dc1c29-89c3-4034-b678-e6c29d823ed9,Microsoft Exchange,Users
+DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852},SM_5308c79a5824433a8,,MsExchDiscoveryMailbox D919BA05-46A6-415f-80AD-7E09334BB852,Discovery Search Mailbox,Users
+Migration.8f3e7716-2011-43e4-96b1-aba62d229136,SM_fd3ec7aed5bc43ab9,,Migration.8f3e7716-2011-43e4-96b1-aba62d229136,Microsoft Exchange Migration,Users
+FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042,SM_e3473f4bfb2e411b9,,FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042,Microsoft Exchange Federation Mailbox,Users
+SystemMailbox{D0E409A0-AF9B-4720-92FE-AAC869B0D201},SM_10f999cd47ea416f8,,SystemMailbox{D0E409A0-AF9B-4720-92FE-AAC869B0D201},E4E Encryption Store - Active,Users
+SystemMailbox{2CE34405-31BE-455D-89D7-A7C7DA7A0DAA},SM_d53e9cb6ea4d489b9,,SystemMailbox{2CE34405-31BE-455D-89D7-A7C7DA7A0DAA},Microsoft Exchange,Users
+SystemMailbox{8cc370d3-822a-4ab8-a926-bb94bd0641a9},SM_6f501e70a8064a6a8,,SystemMailbox 8cc370d3-822a-4ab8-a926-bb94bd0641a9,SystemMailbox{8cc370d3-822a-4ab8-a926-bb94bd0641a9},Users
+HealthMailbox1e73ceee11d14e8b969482626e9f5417,HealthMailbox1e73cee,,,HealthMailbox-Exchange-Mailbox-Database-1711407713,Monitoring Mailboxes
+HealthMailboxa845b976a03a46ea981e48d37f7a16ef,HealthMailboxa845b97,,,HealthMailbox-Exchange-001,Monitoring Mailboxes
+HealthMailboxeeba0157b4c643d58847ccc558614ca9,HealthMailboxeeba015,,,HealthMailbox-Exchange-002,Monitoring Mailboxes
+HealthMailboxc8c81a839ca1417fbf7ee9e711a13647,HealthMailboxc8c81a8,,,HealthMailbox-Exchange-003,Monitoring Mailboxes
+HealthMailbox36d9e677674a4c378e77318ec888c067,HealthMailbox36d9e67,,,HealthMailbox-Exchange-004,Monitoring Mailboxes
+HealthMailboxd23dd04e6aae4f4db9684bbf2ed48005,HealthMailboxd23dd04,,,HealthMailbox-Exchange-005,Monitoring Mailboxes
+HealthMailbox9c7e1ba122354a848f62c6cd816fa82f,HealthMailbox9c7e1ba,,,HealthMailbox-Exchange-006,Monitoring Mailboxes
+HealthMailboxeaa9785acda54c97abad5dd5a82d788d,HealthMailboxeaa9785,,,HealthMailbox-Exchange-007,Monitoring Mailboxes
+HealthMailbox4f8ec8134bf343a8b6726610171de34d,HealthMailbox4f8ec81,,,HealthMailbox-Exchange-008,Monitoring Mailboxes
+HealthMailboxe57e2d3c15fb42efb735f320402664b0,HealthMailboxe57e2d3,,,HealthMailbox-Exchange-009,Monitoring Mailboxes
+HealthMailboxdd2759fd3e5048a096dcd740b078384c,HealthMailboxdd2759f,,,HealthMailbox-Exchange-010,Monitoring Mailboxes
+Bo ter Ham,boterham,Bo,ter Ham,Bo ter Ham,Joodse Theologie
+Max Verstappen,Maxverstappen,Max,Verstappen,Max Verstappen,Tropische Bosbouw
+sshd,sshd,,,sshd,Users
+User1,User1,User1,,User1,Christelijke Theologie
+User2,User2,User2,,User2,Nunspeet
+User3,User3,User3,,User3,Nunspeet
+User4,User4,User4,,User4,Putten
+moodleBind,moodlebind,moodleBind,,moodleBind,Users
+student1,student1,student1,,student1,elo
+student2,student2,student2,,student2,elo
+mark,mark,mark,,mark,Joodse Theologie
+User7,User7,User7,,User7,Medewerkers
+frits,frits,frits,,frits,Joodse Theologie
+substudent1,substudent1,substudent1,,substudent1,elo_sub
+User10,User10,User10,,User10,Putten
+tester2,tester2,tester2,,tester2,Islamitische Theologie
+User11,User11,User11,,User11,Medewerkers
+User12,User12,User12,,User12,Medewerkers
+User13,User13,User13,,User13,Medewerkers
+willsmith,willsmith,will,smith,willsmith,Studenten
+tantetea,tantetea,tante,tea,tantetea,Medewerkers
+Berend de Gooi,berendg,Berend,de Gooi,Berend de Gooi,Studenten
+demotest,demotest,demotest,demotest,demotest,Medewerkers
+newuser,newuser,newuser,newuser,newuser,Medewerkers
+newuser1,newuser1,newuser1,newuser1,newuser1,Medewerkers
