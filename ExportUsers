@@ -1,0 +1,3 @@
+Import-Module ActiveDirectory
+
+Get-ADUser -Filter * -Properties * | Select name,samaccountname,givenname,surname,Displayname,@{l='ParentOU';e={(($_.DistinguishedName -split ",",4)[1] -split "=")[1]}} | Export-Csv C:\export.csv
