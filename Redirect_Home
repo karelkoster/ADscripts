@@ -5,7 +5,7 @@ Import-Module activedirectory
 #In de onderstaande OU's wordt gegeken naar de users.
 
 $OUs=
-"OU=Medewerkers,DC=uvh,DC=nl","OU=Studenten,DC=uvh,DC=nl"
+"OU=Medewerkers,DC=uvi,DC=nl","OU=Studenten,DC=uvi,DC=nl"
 
 #loop om door de bovenstaande Array te looopooo
 Foreach($OU in $OUs){   
@@ -14,7 +14,7 @@ $users = Get-ADUser -Filter * -SearchBase $OU
 $users | ForEach-Object {
 # Assign user's home directory path
 $sam = $_.SamAccountName
-$homeDirectory = "\\fileserver\home_folders$\$sam" 
+$homeDirectory = "\\Storage\Shares\home_folders$\$sam" 
 Set-ADUser -Identity $sam -HomeDirectory $homeDirectory -HomeDrive H;
 
 #home dir aanmaken.
