@@ -15,7 +15,7 @@ $users | ForEach-Object {
 # Assign user's home directory path
 $sam = $_.SamAccountName
 $homeDirectory = "\\Storage\Shares\home_folders$\$sam" 
-Set-ADUser -Identity $sam -HomeDirectory $homeDirectory -HomeDrive H;
+Set-ADUser -Identity $sam -HomeDirectory $homeDirectory -HomeDrive C;
 
 #home dir aanmaken.
 Try
@@ -30,7 +30,7 @@ Catch
 }
 
 #
-Set-ADUser $sam -HomeDrive H: -HomeDirectory $homeDirectory -ea Stop
+Set-ADUser $sam -HomeDrive C: -HomeDirectory $homeDirectory -ea Stop
 
 
 #Rechten aanmaken voor gebruiker $sam. 
