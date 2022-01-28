@@ -14,7 +14,7 @@ $users = Get-ADUser -Filter * -SearchBase $OU
 $users | ForEach-Object {
 # Assign user's home directory path
 $sam = $_.SamAccountName
-$homeDirectory = "\\Storage\Shares\home_folders$\$sam" 
+$homeDirectory = "\\storage\home_folders$\$sam" 
 Set-ADUser -Identity $sam -HomeDirectory $homeDirectory -HomeDrive C;
 
 #home dir aanmaken.
